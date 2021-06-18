@@ -1,0 +1,4 @@
+.idea
+node_modules
+/rxjs-youtube-course/node_modules
+dist
